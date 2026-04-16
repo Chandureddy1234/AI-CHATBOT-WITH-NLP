@@ -102,4 +102,4 @@ making it a solid foundation for advanced AI chatbot development.
 
 ### 📌 Output
 
-
+<img width="1364" height="574" alt="Image" src="https://github.com/user-attachments/assets/fdb75216-006d-4d5c-b9ff-00fdb3f90b04" />
